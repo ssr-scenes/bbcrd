@@ -13,5 +13,3 @@ License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ![Uni of Salford listening room](sbsbrir_measurement_setup.jpg)
-
-![Measurement setup](scale_diagram_stripped.pdf)
